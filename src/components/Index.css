@@ -1,0 +1,12 @@
+.card {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  width: 18rem;
+}
+#card-container {
+  display: flex;
+  flex-direction: colum;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
